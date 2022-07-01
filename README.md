@@ -1,4 +1,4 @@
-# Interview-Backend
+# Interview Backend
 Hello and thanks for taking the time to complete our interview developer test!
 
 Feel free to do any code refactors you see fit, but keep it in JS.
